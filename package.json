@@ -1,0 +1,29 @@
+{
+	"name": "techministry-orator",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Orator"
+	],
+	"manufacturer": "Tech Ministry",
+	"product": "Orator",
+	"shortname": "orator",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-techministry-orator.git"
+	},
+	"author": "Joseph Adams <josephdadams@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-techministry-orator/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-techministry-orator#readme",
+	"dependencies": {
+		"socket.io-client": "^2.3.0"
+	}
+}
